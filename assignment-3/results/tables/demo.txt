@@ -1,0 +1,8 @@
+SMART CITY INFRASTRUCTURE AND ROUTE PLANNING
+Districts: [Central, University, Hospital, Airport, Industrial, Suburb]
+Construction costs are independent of travel distances.
+Kruskal total construction cost: 130
+Prim total construction cost: 130
+Same minimum weight: true
+Connected: true; components: 1
+Selected MST roads:

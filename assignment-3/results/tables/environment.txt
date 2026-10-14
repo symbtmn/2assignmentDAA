@@ -1,0 +1,8 @@
+Java: 17.0.20+8-1-24.04-Ubuntu
+VM: OpenJDK 64-Bit Server VM
+OS: Linux amd64
+Available processors: 8
+Base seed: 20261014
+Warmup invocations per case: 200
+Measured invocations per case: 5
+Timer: System.nanoTime()

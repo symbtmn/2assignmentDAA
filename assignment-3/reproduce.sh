@@ -6,3 +6,4 @@ cat results/tables/tests.txt
 java -cp out app.Main demo > results/tables/demo.txt
 java -cp out benchmark.Benchmark
 python3 scripts/plot_results.py
+python3 scripts/write_report.py

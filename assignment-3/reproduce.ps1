@@ -10,3 +10,5 @@ java -cp out benchmark.Benchmark
 if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 python scripts/plot_results.py
 if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+python scripts/write_report.py
+if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }

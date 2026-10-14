@@ -1,0 +1,15 @@
+PASS: DSU union, rank, compression and counters
+PASS: Small MST with known weights; negative MST edges and self-loop
+PASS: Disconnected graphs and isolated districts
+PASS: Multiple valid MSTs, equal weights and parallel edges
+PASS: Single vertex with and without a self-loop
+PASS: DAG ordering, multiple choices, isolated vertices and cycle detection
+PASS: Known SCC partition, cycles, self-loop and disconnected vertices
+PASS: Shortest distances, paths, zero weights, unreachable vertices and long totals
+PASS: Invalid vertices, graph types and negative edges, including unreachable negative edges
+PASS: Custom graph file parsing
+PASS: Reproducible generators at all three required sizes
+PASS: 100 seeded MST cases checked by exhaustive spanning-tree enumeration
+PASS: 100 seeded directed cases checked by reachability and Floyd-Warshall
+PASS: 20,000-vertex chain without recursive stack overflow
+PASS: 14 suites, 18371 correctness checks
